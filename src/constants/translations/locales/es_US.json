@@ -1,0 +1,96 @@
+{
+	"shared": {
+		"submit": "Enviar",
+		"ok": "ok",
+		"cancel": "Cancelar",
+		"logoutMessage1": "Cerrar la sesion!",
+		"logoutMessage2": "ÀEst‡ seguro de que desea cerrar la sesion??"
+	},
+	"connectionEditor": {},
+	"eventScreen": {
+		"liveGames": "Partidos en directo",
+		"upcomingGames": "Proximos partidos",
+		"stream": "Transmision",
+		"subTitle": "Note: Podr‡s transmitir el partido 10 minutos antes deljuego."
+	},
+	"screens": {
+		"games": "Partidos",
+		"login": "Iniciar sesion",
+		"signup": "Reg’strate",
+		"profile": "Perfil",
+		"language": "Idioma",
+		"settings": "Configuracion",
+		"logout": "Cerrar sesion",
+		"video": "Video",
+		"audio": "Audio",
+		"connection": "Conexion",
+		"currentConnections": "Conexiones actuales"
+	},
+	"loginScreen": {
+		"passwordInvalidError": "Introduce m‡s de 6 caracteres",
+		"emailInvalidError": "Introduce un correo electronico valido",
+		"requiredError": "Este campo es obligatorio",
+		"emailError": "Por favor, introduzca un correo electronico",
+		"passwordError": "Introduzca una contrase–a"
+	},
+	"signup": {
+		"welcome": "Bienvenido a Netscouters TV",
+		"createFreeAccount": "Crear cuenta gratuita",
+		"firstName": "Nombre",
+		"firstNamePlaceHolder": "Introduzca el nombre",
+		"lastName": "Apellido",
+		"lastNamePlaceHolder": "Introduzca el apellido",
+		"email": "Correo electr—nico",
+		"emailPlaceHolder": "Ingrese el correo electronico",
+		"address": "Direcci—n",
+		"addressPlaceHolder": "Introduzca la direccion",
+		"password": "Contrase–a",
+		"passwordPlaceHolder": "Introduzca la contrase–a",
+		"alreadyAccount": "Ya tienes una cuenta?"
+	},
+	"login": {
+		"loginHere": "Por favor, inicie sesi—n aqu’",
+		"accountSuccess": "Cuenta creada correctamente",
+		"show": "MOSTRAR",
+		"hide": "ESCONDER"
+	},
+	"profileScreen": {
+		"addressError": "Por favor, agregue una direccion",
+		"firstNameError": "Por favor, agregue un nombre",
+		"lastNameError": "Por favor, agregue un apellido",
+		"emailError": "Por favor, agregue un correo electronico"
+	},
+	"languageScreen": {
+		"finnish": "Finnish",
+		"spanish": "Espa–ol",
+		"english": "InglŽs",
+		"changeLanguage": "Cambiar idioma"
+	},
+	"settingsScreen": {
+		"select": "Seleccione su idioma"
+	},
+	"setupRootScreen": {
+		"copyRightMessage": "Derechos de autor © 2023 Ð Netscouters SL. Todos los derechos reservados."
+	},
+	"setupVideoScreen": {
+		"backSide": "Parte trasera",
+		"frontSide": "Parte frontal",
+		"landscape": "Paisaje",
+		"portait": "Retrato",
+		"off": "Apagado",
+		"followScreenRotation": "Seguir la rotacion de la pantalla",
+		"lockWhileBroadcasting": "Bloquear durante la transmision",
+		"initialCamera": "C‡mara inicial",
+		"backCamera": "Camara trasera",
+		"frontCamera": "Camara frontal",
+		"liveRotation": "Rotacion en vivo",
+		"resolution": "Resolucion"
+	},
+	"setupAudio": {
+		"mono": "Mono",
+		"stereo": "Stereo",
+		"matchInput": " Entrada coincidencia ",
+		"audioChannels": "Canales de audio",
+		"bitrate": "Bitrate"
+	}
+}

@@ -1,0 +1,93 @@
+{
+  "shared": {
+    "submit": "Seuraava",
+    "ok": "OK",
+    "cancel": "Peruuta",
+    "logoutMessage1": "Kirjaudu ulos!",
+    "logoutMessage2": "Oletko varma, että haluat kirjautua ulos?"
+  },
+  "connectionEditor": {},
+  "eventScreen": {
+    "liveGames": "Live tapahtumat",
+    "upcomingGames": "Tulevat ottelut",
+    "stream": "Lähetä",
+    "subTitle": "Huom: voit striimata 20min ennen tapahtuman alkua"
+  },
+  "screens": {
+    "games": "Ottelut",
+    "login": "Kirjaudu sisään",
+    "signup": "Rekisteröidy",
+    "profile": "Profiili",
+    "language": "Kielet",
+    "settings": "Asetukset",
+    "logout": "Kirjaudu ulos",
+    "video": "Videot",
+    "audio": "Ääni"
+  },
+  "loginScreen": {
+    "passwordInvalidError": "Anna vähintään 6 merkkiä",
+    "emailInvalidError": "Sähköpostiosoitetta ei löytynyt",
+    "requiredError": "Tämä kenttä on vaadituu",
+    "emailError": "Anna oikea sähköpostiosoite",
+    "passwordError": "Anna salasana"
+  },
+  "signup": {
+    "welcome": "Tervetuloa",
+    "createFreeAccount": "Luo ilmainen tili",
+    "firstName": "Etunimi",
+    "firstNamePlaceHolder": "Anna etunimi",
+    "lastName": "Sukunimi",
+    "lastNamePlaceHolder": "Anna sukunimi",
+    "email": "Sähköposti",
+    "emailPlaceHolder": "Anna sähköposti",
+    "address": "Lähiosoite",
+    "addressPlaceHolder": "Anna lähiosoite",
+    "password": "Salasana",
+    "passwordPlaceHolder": "Anna salasana",
+    "alreadyAccount": "Onko sinulla jo tili?"
+  },
+  "login": {
+    "loginHere": "Kirjaudu täällä:",
+    "accountSuccess": "Tili luotu onnistuneesti",
+    "show": "NÄYTÄ",
+    "hide": "PIILOTA"
+  },
+  "profileScreen": {
+    "addressError": "Anna osoite",
+    "firstNameError": "Anna etunimi",
+    "lastNameError": "Anna sukunimi",
+    "emailError": "Anna sähköpostiosoite"
+  },
+  "languageScreen": {
+    "english": "Englanniksi",
+    "finnish": "Suomeksi",
+    "changeLanguage": "Kieli"
+  },
+  "settingsScreen": {
+    "select": "Valitse kielesi"
+  },
+  "setupRootScreen": {
+    "copyRightMessage": "Copyright © 2023 - PESISTV. Kaikki oikeudet pidätetään"
+  },
+  "setupVideoScreen": {
+    "backSide": "Takakamera",
+    "frontSide": "Etukamera",
+    "landscape": "Vaaka",
+    "portait": "Pysty",
+    "off": "Pois päältä",
+    "followScreenRotation": "Seuraa ruudun asentoa",
+    "lockWhileBroadcasting": "Lukitse lähetettäessä",
+    "initialCamera": "Oletuskamera",
+    "backCamera": "Takakamera",
+    "frontCamera": "Etukamera",
+    "liveRotation": "Käännä kamera puhelimen Live tilassa",
+    "resolution": "Resoluutio"
+  },
+  "setupAudio": {
+    "mono": "Mono",
+    "stereo": "Stereo",
+    "matchInput": "Seuraa lähdettä",
+    "audioChannels": "Ääni",
+    "bitrate": "Bittinopeus"
+  }
+}
